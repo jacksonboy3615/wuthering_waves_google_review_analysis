@@ -62,8 +62,8 @@ Based on VADER sentiment scores, players’ **positive sentiment is steadily inc
 
 - Early on, players frequently compared Wuthering Waves to **Genshin Impact**.  
   By **Version 2.0**, Genshin is rarely mentioned, as most players focus on the **Rinacita story and characters**.  
-- Some players still report **lag and performance issues**, but:  
-  - Mentions of lagging are **less frequent in Version 2.0** compared to Version 1.0.
+- Some players still report **lag and performance issues**
+- However, mentions of lagging are **less frequent in Version 2.0** compared to Version 1.0.
 
 ---
 
