@@ -90,4 +90,4 @@ There is also a **Plotly-based interactive version** of the analysis available i
 If you’d like to talk about **data analysis, Python, or TV Series 😄**, feel free to reach out:
 
 - **Email:** jkim3615@gmail.com  
-- **LinkedIn:** [(add your profile link here)](https://www.linkedin.com/in/jae-hwan-kim-274190100/)
+- **LinkedIn:** https://www.linkedin.com/in/jae-hwan-kim-274190100/
