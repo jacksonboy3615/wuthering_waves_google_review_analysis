@@ -1,4 +1,4 @@
-# Wuthering Waves Google Review Analysis 🌊⭐  
+# Wuthering Waves Google Review Analysis  
 **Interactive analysis of Wuthering Waves’ Google Play reviews from Pre-Launch to Version 2.0, built with Python and ipywidgets.**
 
 ---
