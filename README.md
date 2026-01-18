@@ -1,4 +1,4 @@
-*Note: ipywidgets doesn't show interactive charts in GitHub, so I've uploaded screenshots of them in the README.
+**Note:** ipywidgets doesn't show interactive charts in GitHub, so I've uploaded screenshots of them in the README.
 
 # Wuthering Waves Google Review Analysis  
 **Interactive analysis of Wuthering Waves’ Google Play reviews from Pre-Launch to Version 2.0, built with Python and ipywidgets.**
