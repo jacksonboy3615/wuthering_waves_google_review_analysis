@@ -39,6 +39,8 @@ Based on VADER sentiment scores, players’ **positive sentiment is steadily inc
 - **Version 1.0:** 70% positive  
 - **Version 2.0:** 72% positive  
 
+<img width="775" height="605" alt="image" src="https://github.com/user-attachments/assets/e5819d1f-c3b8-4342-b3e9-76b85ec7ac6e" />
+
 ---
 
 ## ⭐ Score Distribution
